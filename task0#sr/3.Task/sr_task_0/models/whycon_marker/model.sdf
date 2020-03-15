@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<sdf version="1.4">
+	<model name="Marker1">
+		<static>true</static>
+		<link name="link">
+			<visual name="visual">
+				<geometry>
+					<mesh>
+						<uri>model://whycon_marker/meshes/whycon_marker.dae</uri>
+						<scale>0.025 0.075 0.075</scale>
+					</mesh>
+				</geometry>
+			</visual>
+		</link>
+	</model>
+</sdf>
