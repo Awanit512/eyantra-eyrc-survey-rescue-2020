@@ -1,13 +1,13 @@
 # eyantra-eyrc-survey-rescue-2020
            TEAM MEMBERS :
 
-          < Awanit Ranjan  >
+          >> Awanit Ranjan  
      
-          < Akash Hemantrao Waitage (Team Leader) >
+          >> Akash Hemantrao Waitage (Team Leader) 
 
-          < Abhsihek Choudhary >
+          >> Abhsihek Choudhary 
 
-          < Dhruvin Shah >
+          >> Dhruvin Shah 
 
 
 
