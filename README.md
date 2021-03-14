@@ -2,8 +2,8 @@
            **TEAM MEMBERS : :** 
 
           **Awanit Ranjan**
-        **
-            Akash Hemantrao Waitage**
+     
+          **Akash Hemantrao Waitage (Team Leader)**
 
           **Abhsihek Choudhary**
 
