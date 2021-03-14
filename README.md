@@ -5,15 +5,10 @@ Survey &amp; Rescue (SR) In eYRC 2019-20 we explore an abstracted version of thi
 
 If you are excited to see the videos of our work check the links below : 
 
-For detecting Beacons : 
+For detecting Beacons : https://youtu.be/3BFRF2QAT_c
 
+For making to move drone automatically to all 16 squares.   https://youtu.be/AMrAX-vQT2Y
 
+For Hardware testing   https://youtu.be/oUsULzN5H_4
 
-For making to move drone automatically to all 16 squares.
-
-
-
-for Hardware testing 
-
-
-For Task 5:Drone demo of executing survey and rescue mission :
+For Task 5:Drone demo of executing survey and rescue mission :  https://youtu.be/z7WruI99nsA
