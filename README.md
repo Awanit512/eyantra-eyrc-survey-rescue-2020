@@ -1,5 +1,6 @@
 ![e-Yantra Summer Internship](http://www.e-yantra.org/img/EyantraLogoLarge.png)
 
+<img src="eyantra-eyrc-survey-rescue-2020/Eyntra_SR_Theme.png">
 
          
 # TEAM MEMBERS 
