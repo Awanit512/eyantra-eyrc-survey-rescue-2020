@@ -1,4 +1,7 @@
-# eyantra-eyrc-survey-rescue-2020
+![e-Yantra Summer Internship](http://www.e-yantra.org/img/EyantraLogoLarge.png)
+
+
+## eyantra-eyrc-survey-rescue-2020
            TEAM MEMBERS :
 
           >> Awanit Ranjan  
