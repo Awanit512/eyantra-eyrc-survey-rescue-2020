@@ -1,7 +1,7 @@
 ![e-Yantra Summer Internship](http://www.e-yantra.org/img/EyantraLogoLarge.png)
 
 <img src="./Eyntra_SR_Theme.png">
-
+<center>
          
 # TEAM MEMBERS 
 
@@ -9,7 +9,7 @@
 ### Akash Hemantrao Waitage (Team Leader) 
 ### Abhsihek Choudhary 
 ### Dhruvin Shah 
-
+</center>
 
 <br>
 <hl>
