@@ -2,13 +2,13 @@
 
 
          
-+ # TEAM MEMBERS 
-```diff
+# TEAM MEMBERS 
+
 ## Awanit Ranjan
 ## Akash Hemantrao Waitage (Team Leader) 
 ## Abhsihek Choudhary 
 ## Dhruvin Shah 
-```
+
 
 
 
