@@ -1,17 +1,13 @@
 ![e-Yantra Summer Internship](http://www.e-yantra.org/img/EyantraLogoLarge.png)
 
 
-## eyantra-eyrc-survey-rescue-2020
-           TEAM MEMBERS :
-
-          >> Awanit Ranjan  
-     
-          >> Akash Hemantrao Waitage (Team Leader) 
-
-          >> Abhsihek Choudhary 
-
-          >> Dhruvin Shah 
-
+```          
++ TEAM MEMBERS :
+    + Awanit Ranjan
+    + Akash Hemantrao Waitage (Team Leader) 
+    + Abhsihek Choudhary 
+    + Dhruvin Shah 
+```
 
 
 
